@@ -21,9 +21,7 @@
   "bugs": {
     "url": "https://github.com/saicaca/hexo-theme-vivia/issues"
   },
-  "homepage": "https://github.com/saicaca/hexo-theme-vivia#readme"
-}
-{
+  "homepage": "https://github.com/saicaca/hexo-theme-vivia#readme",
   "scripts": {
     "build": "hexo generate"
   }
